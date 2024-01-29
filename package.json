@@ -1,0 +1,12 @@
+{
+  "name": "voyage2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
